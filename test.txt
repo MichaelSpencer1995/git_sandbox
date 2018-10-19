@@ -1,7 +1,7 @@
 eighth
 2
 this will override
-4
+this will actually be saved
 5
 6
 7
@@ -14,3 +14,4 @@ eighth
 branch2 commit 1
 branch2 commit 2
 branch2 commit 3
+commit 1 on new branch to keep
